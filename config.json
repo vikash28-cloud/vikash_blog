@@ -1,0 +1,22 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/vikash_blog",
+    "prod_uri": "mysql://root:@localhost/vikash_blog",
+    "fb_url": "https://www.facebook.com/glauniv/",
+    "tw_url": "https://twitter.com/gla_mathura?lang=en",
+    "gh_url": "https://github.com/GLAU-TND",
+    "blog_name": "GLAU Blogs",
+    "tag_line": "Exploring Technology...",
+    "copyright": "Copyright@ GLAU Blog.inc 2021",
+    "gmail_username": "vikashblog0@gmail.com",
+    "gmail_password": "vikash.12",
+    "no_of_post": 3,
+    "login_img": "logo1.svg", 
+    "admin_user": "glau",
+    "admin_password": "glaup",
+    "upload_location": "C:\\Users\\Ankush\\Desktop\\Site_blog\\static\\img\\posts"
+  }
+
+}
